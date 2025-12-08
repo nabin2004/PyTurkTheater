@@ -8,3 +8,14 @@ This allows you to watch your neural networks in action, step by step.
 - Visualize gradient flow, exploding/vanishing gradients, and optimizer steps
 - Optional integration with PyTurk — works directly with Value, Layer, and MLP objects
 - Export animations to MP4 or GIF for presentations and teaching
+
+# Notes
+
+## Some commands:
+```
+uv init --python 3.13 project-name
+```
+
+```
+uv add manim
+```
